@@ -1,0 +1,127 @@
+{
+    "1": {
+        "Bachelor-Forschungsprojekt": {
+            "channel": 905164766211887114
+        },
+        "Bachelor-Ringvorlesung": {
+            "channel": 899025363622039584
+        },
+        "Computergraphik": {
+            "channel": 905169485168771132
+        },
+        "Data Warehousing, Data Mining, and OLAP": {
+            "channel": 905477164416249866
+        },
+        "Datenstrukturen und Algorithmen": {
+            "channel": 905473150463119441
+        },
+        "Einführung in Data Science": {
+            "channel": 899024033763434546
+        },
+        "Einführung in die Softwaretechnik": {
+            "channel": 905472770907987988
+        },
+        "Einführung in die Technische Informatik": {
+            "channel": 905475387243495485
+        },
+        "Grundlagen der Informationsicherheit": {
+            "channel": 905169684331134977
+        },
+        "Grundlagen des Wissenschaftlichen Rechnens": {
+            "channel": 1022258469799215174
+        },
+        "Imaging Science": {
+            "channel": 905170030176665690
+        },
+        "Information Retrieval and Text Mining": {
+            "channel": 905477460450217984
+        },
+        "Informationsvisualisierung und visuelle Analytik für Data Science": {
+            "channel": 905477371472257084
+        },
+        "Machine Learning": {
+            "channel": 905477580268929094
+        },
+        "Mathematik für Infomatiker und Softwaretechniker": {
+            "channel": 899023100065226782
+        },
+        "Medieninformatik": {
+            "channel": 899023946660327444
+        },
+        "Mensch-Computer Interaktion": {
+            "channel": 905165073700507729
+        },
+        "Modellierung": {
+            "channel": 905165169645215765
+        },
+        "Numerische Grundlagen": {
+            "channel": 905473539237380116
+        },
+        "Programmentwicklung I": {
+            "channel": 899023877664038943
+        },
+        "Programmentwicklung II": {
+            "channel": 905472584060133377
+        },
+        "Programmierprojekt": {
+            "channel": 905163529680715777
+        },
+        "Programmierung für Medieninformatiker": {
+            "channel": 905476603360976956
+        },
+        "Programmierung und Softwareentwicklung": {
+            "channel": 899023493771964416
+        },
+        "Programmparadigmen": {
+            "channel": 905165234073899049
+        }
+        
+    },
+    "2": {
+        "Rechnerorganisation 1": {
+            "channel": 905473245791256616
+        },
+        "Rechnerorganisation 2": {
+            "channel": 1022258856706973746
+        },
+        "Seminar Informatik": {
+            "channel": 905473474015920138
+        },
+        "Seminar SWT": {
+            "channel": 905475893705703464
+        },
+        "Software Engineering": {
+            "channel": 905170348453007392
+        },
+        "Software-Praktikum": {
+            "channel": 905475682623184977
+        },
+        "Statistische und stochastische Grundlagen": {
+            "channel": 905162815063621692
+        },
+        "Studienprojekt Medieninformatik": {
+            "channel": 905476793966927982
+        },
+        "Studienprojekt SWT": {
+            "channel": 905475973674323988
+        },
+        "Systemkonzepte und -programmierung": {
+            "channel": 1022259174320656435
+        },
+        "Technische Grundlagen der Informatik": {
+            "channel": 899023730272002080
+        },
+        "Theoretische Informatik I": {
+            "channel": 899023332719091742
+        },
+        "Theoretische Informatik II": {
+            "channel": 905162967937593354
+        },
+        "Theoretische Informatik III": {
+            "channel": 905162920554536981
+        },
+        "Wissenschaftliche Methoden": {
+            "channel": 905163709498933248
+        }
+    } 
+}
