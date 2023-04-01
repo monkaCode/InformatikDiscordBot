@@ -12,13 +12,6 @@ class MyBot(commands.Bot):
             application_id=901956406050168862
         )
         self.initial_extensions = [
-            "cogs.courses.join_course1",
-            "cogs.courses.leave_course1",
-            "cogs.courses.join_course2",
-            "cogs.courses.leave_course2",
-            "cogs.roles.subject",
-            "cogs.roles.studiengang",
-            "cogs.roles.accept",
             "cogs.manage.server_info"
         ]
     
